@@ -1,0 +1,14 @@
+h1{
+    color: green;
+    text-align: center;
+}
+.pregunta{
+    background-color: yellow;
+    border: solid 1px black;
+    font-weight: bold;
+}
+.respuesta{
+    border-style: dotted;
+    font-style: italic;
+    border-width: 1px;
+}
