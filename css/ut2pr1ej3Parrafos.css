@@ -1,0 +1,9 @@
+.amarillo{
+    background-color: #ffffaa;
+    border: solid 1px #ffd5da;
+    padding:100px 0px 0px 30px;
+    margin-top:50px;
+}
+p:last-of-type{
+    font-weight: bold;
+}

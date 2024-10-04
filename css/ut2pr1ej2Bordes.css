@@ -1,0 +1,10 @@
+.tituloPagina{
+    border-bottom:  solid 3px red;
+    border-right:  solid 3px red;
+    border-left:  solid 1px #ffebb7;
+    border-top:  solid 1px #ffebb7;
+    background-color: #ffffcc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}

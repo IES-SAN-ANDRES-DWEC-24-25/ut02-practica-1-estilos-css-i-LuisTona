@@ -1,0 +1,32 @@
+.fondo{
+    background-image: url(../img/logo-and-web-design.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Unbounded', sans-serif;
+    height: 100%;
+}
+.content{
+    width: 500px;
+    margin: auto;
+        
+    text-align: center;
+    background-color:#fc5956;
+    border: solid 2px #3d1734;
+    
+    h1{
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    a{
+        font-weight: 600;
+    }
+
+    a:hover{
+        color: rgba(230, 230, 107, 0.776);
+    }
+
+    hr{
+        color: #3d1734;
+    }
+}
